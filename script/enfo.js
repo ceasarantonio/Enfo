@@ -102,7 +102,7 @@ window.onload = function () {
         } else {
         published.innerHTML = date.toString();
         }
-        titles.className = "article-container";
+        titles.className = "article-container"; // Add className to the created elements
         author.className = "author";
         description.className = "description";
         origin.className = "origin";
