@@ -1,0 +1,69 @@
+#header-container {
+    text-align:center;
+    margin:auto;
+}
+.loggo-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
+}
+.h1-container {
+  text-align: center;
+}
+
+
+h3{
+    text-align: center;
+}
+
+#news-container {
+    padding: 15px;
+    display:  flex;
+    flex-direction: column;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
+
+.article-container {
+    height: 300px;
+    width: 300px;
+    word-wrap: break-word;
+    padding: 20px;
+    margin: 20px;
+}
+
+.origin {
+    font-style: italic;
+    text-align: center
+}
+
+.published {
+    text-align: center;
+    padding: 5px;
+}
+
+.author {
+    text-align: center;
+    padding: 5px;
+
+}
+
+.description{
+    text-align: center;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+
+
+
